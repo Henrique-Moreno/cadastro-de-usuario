@@ -31,11 +31,11 @@ Uma aplicação web moderna para cadastro, login e gerenciamento de usuários, c
 
 npm install
 
-# Copie o .env.example para .env
+#### Copie o .env.example para .env
 cp .env.example .env
 
-# Edite .env com suas credenciais do Firebase Console
-# (Project Settings → General → Your apps → Web app → Config)
+#### Edite .env com suas credenciais do Firebase Console
+#### (Project Settings → General → Your apps → Web app → Config)
 
 
 ## Execute localmente:
