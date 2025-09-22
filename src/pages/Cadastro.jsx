@@ -56,8 +56,6 @@ export default function Cadastro() {
         email: formData.email,
         createdAt: new Date().toISOString()
       });
-
-      console.log('Usuário cadastrado com sucesso! UID:', user.uid);
       
       navigate('/principal');
 
